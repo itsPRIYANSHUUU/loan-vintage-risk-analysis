@@ -68,6 +68,20 @@ loan-vintage-project/
 See `outputs/early_warning_report.txt` for the full flagged list, and
 `outputs/vintage_curves.png` / `outputs/roll_rate_heatmap.png` for the visuals.
 
+## Dashboard & Visualizations
+
+### 1. Vintage Curve Analysis
+
+![Vintage Curves](images/vintage_curve.png)
+
+### 2. Roll-Rate Transition Matrix
+
+![Roll Rate Heatmap](images/roll_rate_heatmap.png)
+
+### 3. Early Warning KPI Trend
+
+![Early Warning Trend](images/early_warning_trend.png)
+
 ## How to Run
 
 ```bash
