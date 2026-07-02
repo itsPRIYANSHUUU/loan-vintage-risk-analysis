@@ -1,0 +1,15 @@
+EARLY WARNING REPORT
+============================================================
+
+Risky Vintages (60+DPD > 10% at MOB=6):
+disbursal_month
+2025-06    17.73
+2025-08    15.91
+2025-07    12.27
+
+Risky Segment x City-Tier (60+DPD > 8% overall):
+segment        city_tier
+Salaried       Tier 3       9.63
+Self-Employed  Tier 2       9.51
+               Tier 3       8.95
+               Tier 1       8.61
