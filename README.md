@@ -1,8 +1,10 @@
 # Loan Portfolio Vintage & Roll-Rate Analysis
 ### Early Warning System for Credit Risk Monitoring in NBFC/Bank Lending
+
 <p align="center">
-  <img src="watermarked_img_2951385603161545290.png" alt="Credit Risk Monitoring: Vintage & Roll-Rate Analysis">
+  <img src="1783620197735.png" alt="Loan Portfolio Vintage & Roll-Rate Analysis Cover" width="100%">
 </p>
+
 
 ## Why this project exists
 
